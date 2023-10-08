@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d86507c1-8a30-4add-943e-552027a9d3ae" name="Changes" comment="Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="28c44d9e-8cd8-4c2b-9ecd-d03a71bc2848" />
+        <option name="url" value="https://github.com/lindseyy89/mhmt.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/lang/Object.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JvIN7OH3Kx9IvOSmLPa1EB9caN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Ebubekir/IdeaProjects/JavaProgramming",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.aaa">
+    <configuration name="BranchingStatement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_While_DoWhile.BranchingStatement2" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_While_DoWhile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_While_DoWhile.Calculator" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_While_DoWhile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoWhileLoopIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_While_DoWhile.DoWhileLoopIntro" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_While_DoWhile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aaa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_Recap.aaa" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day39_Recap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_Recap.ccc" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day39_Recap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.aaa" />
+        <item itemvalue="Application.ccc" />
+        <item itemvalue="Application.DoWhileLoopIntro" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.BranchingStatement2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d86507c1-8a30-4add-943e-552027a9d3ae" name="Changes" comment="" />
+      <created>1672952086906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672952086906</updated>
+      <workItem from="1672952088007" duration="944000" />
+      <workItem from="1673016688959" duration="5932000" />
+      <workItem from="1673137387591" duration="1502000" />
+      <workItem from="1673204976250" duration="11437000" />
+      <workItem from="1673282293245" duration="10878000" />
+      <workItem from="1673349499933" duration="4656000" />
+      <workItem from="1673429784658" duration="1183000" />
+      <workItem from="1673529513011" duration="1826000" />
+      <workItem from="1673606249846" duration="595000" />
+      <workItem from="1674127458504" duration="8924000" />
+      <workItem from="1674237419999" duration="13620000" />
+      <workItem from="1674386641330" duration="5645000" />
+      <workItem from="1674411197880" duration="6599000" />
+      <workItem from="1675001993565" duration="14201000" />
+      <workItem from="1675183698251" duration="18995000" />
+      <workItem from="1675331382983" duration="18803000" />
+      <workItem from="1675420825863" duration="11088000" />
+      <workItem from="1675512034981" duration="27419000" />
+      <workItem from="1675599042272" duration="8503000" />
+      <workItem from="1675764993961" duration="12501000" />
+      <workItem from="1675852158872" duration="38574000" />
+      <workItem from="1676028470515" duration="7368000" />
+      <workItem from="1676122390236" duration="11658000" />
+      <workItem from="1676199496686" duration="17111000" />
+      <workItem from="1676276227175" duration="10774000" />
+      <workItem from="1676375861739" duration="6151000" />
+      <workItem from="1676482359448" duration="2951000" />
+      <workItem from="1677410509374" duration="23713000" />
+      <workItem from="1677490241307" duration="6997000" />
+      <workItem from="1677576953278" duration="11921000" />
+      <workItem from="1677671813853" duration="1145000" />
+      <workItem from="1677747204275" duration="12412000" />
+      <workItem from="1677831539632" duration="6449000" />
+      <workItem from="1678020757197" duration="10191000" />
+      <workItem from="1678090037221" duration="20725000" />
+      <workItem from="1678256432538" duration="30537000" />
+      <workItem from="1678437606714" duration="19145000" />
+      <workItem from="1678623337081" duration="309000" />
+      <workItem from="1678623660524" duration="16214000" />
+      <workItem from="1678700547395" duration="31737000" />
+      <workItem from="1678878933935" duration="5266000" />
+      <workItem from="1678963228397" duration="13336000" />
+      <workItem from="1679054821179" duration="12214000" />
+      <workItem from="1679142261039" duration="8586000" />
+      <workItem from="1679221383073" duration="1693000" />
+      <workItem from="1679335044472" duration="4544000" />
+      <workItem from="1679413893054" duration="8016000" />
+      <workItem from="1679475646071" duration="20842000" />
+      <workItem from="1679558333991" duration="6768000" />
+      <workItem from="1679666348912" duration="8766000" />
+      <workItem from="1679830642231" duration="1364000" />
+      <workItem from="1679843830000" duration="6398000" />
+      <workItem from="1680006066351" duration="3117000" />
+      <workItem from="1680036714878" duration="2844000" />
+      <workItem from="1680280642912" duration="2620000" />
+      <workItem from="1680872152485" duration="16115000" />
+      <workItem from="1681205498038" duration="2951000" />
+      <workItem from="1681286201209" duration="6981000" />
+      <workItem from="1681375291370" duration="5160000" />
+      <workItem from="1681510047298" duration="6604000" />
+      <workItem from="1682670674015" duration="6032000" />
+      <workItem from="1682923980278" duration="6072000" />
+      <workItem from="1684145368778" duration="7231000" />
+      <workItem from="1684173514378" duration="717000" />
+      <workItem from="1685009739317" duration="732000" />
+      <workItem from="1685179251193" duration="11772000" />
+      <workItem from="1685442966809" duration="1812000" />
+      <workItem from="1686170532373" duration="6094000" />
+      <workItem from="1686220838118" duration="13784000" />
+      <workItem from="1686389397123" duration="20185000" />
+      <workItem from="1686608951379" duration="799000" />
+      <workItem from="1686650002045" duration="6529000" />
+      <workItem from="1693043948703" duration="144000" />
+      <workItem from="1693045484453" duration="1033000" />
+      <workItem from="1693046718061" duration="1043000" />
+      <workItem from="1694593758582" duration="53000" />
+      <workItem from="1694595422904" duration="135000" />
+      <workItem from="1694597272491" duration="184000" />
+      <workItem from="1694605546196" duration="25000" />
+      <workItem from="1694610556298" duration="29000" />
+      <workItem from="1695198494089" duration="1243000" />
+      <workItem from="1695664744353" duration="134000" />
+      <workItem from="1695664898116" duration="23000" />
+      <workItem from="1696788425952" duration="2255000" />
+      <workItem from="1696790721963" duration="2998000" />
+      <workItem from="1696795214421" duration="3419000" />
+      <workItem from="1696799020797" duration="537000" />
+      <workItem from="1696799570158" duration="134000" />
+      <workItem from="1696799770973" duration="169000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1685179844823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685179844823</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1685180229805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685180229805</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1685185422358</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685185422358</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit UniqueElements">
+      <created>1696788818979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696788818979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit EvenlyDivisible.java">
+      <created>1696789115334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696789115334</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit EvenlyDivisible.java">
+      <created>1696789727420</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696789727420</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit EvenlyDivisible.java">
+      <created>1696790442470</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696790442470</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit hello world">
+      <created>1696795397594</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696795397594</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit hello world">
+      <created>1696795722164</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696795722164</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="a8a8a884-1d5f-494c-9d22-e5017c312ee4">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="a8a8a884-1d5f-494c-9d22-e5017c312ee4" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="Commit UniqueElements" />
+    <MESSAGE value="Commit EvenlyDivisible.java" />
+    <MESSAGE value="Commit hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit hello world" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day25_CustomMethods_Overloading/SumOfNumbers.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
