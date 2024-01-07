@@ -1,0 +1,7 @@
+#files to be ignored for commiting to GitHub:
+
+venv
+*pycache*
+*.txt
+students_ay.py
+test_students_ay.py
