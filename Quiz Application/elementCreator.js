@@ -11,7 +11,7 @@ const div1 = document.createElement("div"); div1.id="div1"; div1.classList.add("
 const questionDescription = document.createElement("p"); questionDescription.id="qnumber";
 const answersHolder = document.createElement("div"); answersHolder.id="answersHolder";
 const submit = document.createElement("button"); submit.id="submit"; submit.textContent="Submit your answer!"; submit.classList.add("myButton"); submit.addEventListener('click', submitQuestion);
-const nextButton = document.createElement("button"); nextButton.id="submit"; nextButton.textContent="Submit your answer!"; nextButton.classList.add("myButton"); nextButton.addEventListener("click", nextQuestion);
+const nextButton = document.createElement("button"); nextButton.id="submit"; nextButton.textContent="Next question!"; nextButton.classList.add("myButton"); nextButton.addEventListener("click", nextQuestion);
 const finishButton = document.createElement("button"); finishButton.id="finishButton"; finishButton.textContent="Finish Test!"; finishButton.classList.add("myButton"); finishButton.addEventListener('click', finishQuiz);
 const restartButton = document.createElement("button"); restartButton.id="restartButton"; restartButton.innerHTML = "Restart Quiz"; restartButton.classList.add("myButton"); restartButton.addEventListener('click', restartQuiz);
 const finishDiv = document.createElement("div"); finishDiv.id="finishDiv";
