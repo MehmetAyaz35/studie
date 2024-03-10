@@ -1,0 +1,41 @@
+Utvärdering om "slutprojektet_Bussen"
+Jag delade in koden i två klasser: Buss och Program.
+Buss-klassen kapslar in logik relaterad till bussoperationer, medan programklassen verkar fungera som en ingångspunkt.
+
+Jag lade till körmetod som ger en meny för användaren att utföra olika åtgärder.
+Jag valde att använda "while loop" för kontinuerlig interaktion tills användaren väljer att avsluta.
+
+Passagerarinformation lagras i en lista inom Buss-klassen.
+Metoden add_passenger lägger till en ny passagerare till bussen och säkerställer att bussen inte överskrider sin maximala kapacitet på 25 passagerare.
+Get_off-metoden tillåter en passagerare att gå av och en ny passagerare att gå ombord, vilket bevarar sittplatsnumret.
+
+Metoder som calc_total_age, calc_average_age, max_age, find_age, sort_buss och print_sex ger specifik statistik och information om passagerare.
+Jag använde "lambda-funktionen" för sortering och listförståelse vid filtrering av manliga och kvinnliga passagerare.
+Jag försökte öka läsbarheten för koden generellt med variabel- och metodnamn.
+
+
+
+
+Evaluation about the final "slutprojektet_Bussen"
+I divided the code into two classes: Buss and Program.
+The Buss class encapsulates logic related to bus operations, while the Program class appears to act as an entry point.
+
+I added run method which provides menu for user to perform various actions.
+I chose to use the "while loop" for continuous interaction until the user chooses to exit.
+
+Passenger information is stored in a list within the Buss class.
+The add_passenger method adds a new passenger to the bus and ensures that the bus does not exceed its maximum capacity of 25 passengers.
+The getting_off method allows one passenger to get off and a new passenger to board, preserving the seat number.
+
+Methods such as calc_total_age, calc_average_age, max_age, find_age, sort_buss and print_sex provide specific statistics and information about passengers.
+I used the "lambda function" for sorting and list comprehension in filtering male and female passengers.
+I tried to increase the readability of the code in general with variable and method names.
+
+
+Utvärdering om slutprojektet_Bussen_annan_lösning
+I've added two different projects below.
+I created methods in the slutprojektet_Bussen.py file in a slightly different way than the instructions.
+The main idea is as follows; I created a bus with 25 seats. I especially used a dictionary because in this way I could specify a "key" for each seat and I could add the user information I specified into the dictionary as a dictionary.
+In this case, the getting_off method also became very useful.
+Neither method caused confusion in the program.
+We can also add different methods as we wish and, for example, update passenger information.

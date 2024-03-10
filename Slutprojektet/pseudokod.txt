@@ -1,0 +1,66 @@
+class Bus:
+    function __init__(passengers=None):
+        // Initialization logic
+
+    function run():
+        loop forever:
+            choice = get_user_input()
+            if choice == "1":
+                add_passenger()
+            elif choice == "2":
+                print_bus_info()
+            elif choice == "3":
+                calc_total_age()
+            elif choice == "4":
+                calc_average_age()
+            elif choice == "5":
+                max_age()
+            elif choice == "6":
+                find_age()
+            elif choice == "7":
+                sort_buss()
+            elif choice == "8":
+                print_sex()
+            elif choice == "9":
+                poke()
+            elif choice == "10":
+                getting_off()    
+            elif choice == "0":
+                print message
+                break
+            else:
+                skriv ut varning om ogiltig inmatning
+
+    function add_passenger(seat_number):
+        // Lägg till passagerare
+
+    function print_bus_info():
+        // Visa passagerare
+
+    function calc_total_age():
+        // Beräkna total ålder
+
+    def calc_average_age(self):
+        // Beräkna genomsnittliga åldern
+
+    def max_age(self):
+        // Ta fram passagerare med högst ålder
+        
+    def find_age(self, beginning_of_age, end_of_age):
+        // Visa alla positioner med passagerare med en viss ålder
+
+    def sort_buss(self):
+        // Sortera bussen efter ålder
+        
+    def print_sex(self):
+        // Skriv ut vilka positioner som har manliga respektive kvinnliga passagerare
+
+    def poke(self):
+        // Hur passagerares reagerar om man petar på dom
+        
+    def getting_off(self):
+        // Passagerare stiger av
+
+// Skapa Bus-instans och kör simuleringen
+bus_instance = Bus()
+bus_instance.run()

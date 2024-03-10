@@ -1,0 +1,32 @@
+Activity Diagram:
+Start:
+The activity starts when the run method is invoked.
+
+User Input:
+The system waits for user input to choose an action.
+
+Action Selection:
+Based on the user's choice, the system performs different actions such as adding a passenger, displaying information, calculating age statistics, etc.
+
+Passenger Addition:
+If the user chooses to add a passenger, the system takes input for seat number, name, age, and sex. It then adds the passenger to the bus.
+Information Display:
+If the user chooses to display information, the system shows relevant details about the passengers or the bus.
+
+Age Calculation:
+If the user chooses to calculate age statistics, the system calculates total age, average age, or finds the oldest passenger.
+
+Sorting:
+If the user chooses to sort the bus, the system arranges passengers based on their age.
+
+Sex Display:
+If the user chooses to display passengers based on sex, the system shows male and female passengers.
+
+Poking:
+If the user chooses to poke a passenger, the system takes input for the seat number and displays a response from the passenger.
+
+Passenger Exit:
+If the user chooses to remove a passenger, the system takes input for the seat number and removes the passenger from the bus.
+
+End:
+The activity ends when the user chooses to exit the bus simulator.

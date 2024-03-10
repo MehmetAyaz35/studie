@@ -1,0 +1,19 @@
+I encountered many errors, especially in the user login section. For example, I used the "isalpha" method along with the if method to ensure that only letters were written in the name section. And in this way, I deliberately raised an "Error". And I used the try expect method to prevent the program from crashing.
+Since the user input in the "age" section will be "int", I added "exception handling(try except)" to prevent the program from crashing if letters are entered instead of numbers.
+In the "gender" section, I made adjustments using if so that only the letters "m" and "f" are valid for female and male entries.
+Frankly speaking, the getting_off method was not exactly what I wanted.
+ In my first coding, yes, I could pick up any passenger I wanted from wherever I wanted, but when I added a new passenger, the seat rows got mixed up and a passenger could be added to the same seat.
+To avoid confusion, I wrote a code that says that when a passenger is removed, a passenger must be added.
+In general, I tried the code many times with deliberately incorrect inputs. I'd say it works fine for the most part.
+When it comes to getting_off I think the methods work more efficiently in the Python code named slutprojektet_Bussen_annan_lösning.py.
+
+
+
+Jag stötte på många fel, särskilt i avsnittet för användarinloggning. Till exempel använde jag metoden "isalpha" tillsammans med metoden if för att säkerställa att endast bokstäver skrevs i namnsektionen. Och på detta sätt tog jag medvetet upp ett fel("Error"). Och jag använde prova förvänta-metoden för att förhindra att programmet kraschar.
+Eftersom användarinmatningen i avsnittet "ålder" kommer att vara "int", lade jag till "exception handling(try except)" för att förhindra att programmet kraschar om bokstäver skrivs in istället för siffror.
+I avsnittet "kön" gjorde jag justeringar med hjälp av om så att endast bokstäverna "m" och "f" är giltiga för kvinnor och män.
+Uppriktigt sagt var get_off-metoden inte exakt vad jag ville ha.
+I min första kodning, ja, jag kunde plocka upp vilken passagerare jag ville var jag ville, men när jag lade till en ny passagerare blandades sätesraderna ihop och en passagerare kunde läggas till samma plats.
+För att undvika förvirring skrev jag en kod som säger att när en passagerare tas bort ska en passagerare läggas till.
+I allmänhet försökte jag koden många gånger med avsiktligt felaktiga inmatningar. Jag skulle säga att det fungerar bra för det mesta.
+När det kommer till att få_av tycker jag att metoderna fungerar mer effektivt i Python-koden som heter slutprojektet_Bussen_annan_lösning.py.
