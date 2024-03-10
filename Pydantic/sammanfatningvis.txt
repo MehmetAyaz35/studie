@@ -1,0 +1,37 @@
+**Sammafattningsvis:**
+
+- requests är bra för att testa en live server, e.g staging eller prod
+- requests kommer göra riktiga http-requests
+- testa andra API:er än ens egen
+- Flasks test-client är bra för att testa lokalt om möjligt
+- In memory, inga riktiga requests görs, så mycket snabbt
+- Går att testa mer specifika flask-features
+
+1. **Integration with Flask Context:**
+    - The Flask test client is tightly integrated with the Flask application context, making it easier to test Flask-specific features.
+    - It automatically handles the application context and request context, which is essential for testing routes that depend on Flask's context variables.
+2. **No Actual HTTP Requests:**
+    - The test client simulates HTTP requests without making actual network calls, leading to faster and more isolated tests.
+    - This means tests do not require a running server, making them more suitable for unit testing.
+3. **Testing in Memory:**
+    - The in-memory nature of the Flask test client allows for testing without side effects to the database or external services, as long as the application is configured correctly.
+4. **Access to Request and Response Data:**
+    - It provides direct access to request and response data, including cookies and headers, which simplifies testing of these elements.
+    - You can easily inspect and assert the details of the response objects returned by the Flask routes.
+5. **Ease of Use with Flask Applications:**
+    - It is specifically designed for testing Flask applications, making it a straightforward choice for developers familiar with Flask.
+    - The Flask test client can be easily used in conjunction with Flask's testing utilities and extensions.
+
+### **Reasons to Use the `requests` Package or Other External HTTP Clients**
+
+1. **Testing a Running Server:**
+    - External HTTP clients like **`requests`** are suitable for testing a live server, which is necessary for end-to-end or integration testing.
+    - This approach tests the full stack, including the web server configuration, and can catch issues that internal testing might miss.
+2. **Real HTTP Requests:**
+    - The **`requests`** package makes real HTTP requests, providing a more accurate representation of how the application will behave in production.
+    - It's beneficial for testing how your application handles actual network conditions and interactions.
+3. **Suitable for Testing External APIs:**
+    - If you need to test how your application interacts with external APIs, **`requests`** or similar tools are more appropriate.
+    - They allow you to test the integration points between your application and third-party services.
+4. **Flexibility and Additional Features:**
+    - External HTTP clients often offer more features and flexibility than Flask’s test client, such as handling different types of authentication, proxies, and SSL certificates.
