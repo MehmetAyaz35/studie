@@ -1,2 +1,0 @@
-hello world
-Klasörü sildim ve bu tekrar clone ve dosyada yapılan değişiklik
