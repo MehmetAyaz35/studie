@@ -1,1 +1,0 @@
-i saw 2 different remote repository remotes/origin/main  remotes/origin/HEAD -> origin/main and i want to test it
