@@ -1,2 +1,0 @@
-hello world 3
-Bu blokta yazdıklarım yeni.Bu değişiklikleri github üzerinden yaptım
