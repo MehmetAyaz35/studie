@@ -1,6 +1,6 @@
 ### Hello, I'm Mehmet Ayaz
 
-👨‍💻 I'm a student at Nackademin studying Kvalitetssäkrare och Testare inom IT.
+👨‍💻 I'm a student at Nackademin studying software testing engineering.
 
 🔍 Currently, I'm seeking an internship and I'm very eager and enthusiastic to learn in this field.
 
